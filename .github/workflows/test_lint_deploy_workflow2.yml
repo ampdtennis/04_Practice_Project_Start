@@ -1,4 +1,4 @@
-name: Test Lint Deploy Workflow
+name: Test Lint Deploy Workflow2
 on: push
 jobs:
   lint:
